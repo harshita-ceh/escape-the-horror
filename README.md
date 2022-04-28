@@ -17,6 +17,8 @@ Concepts used:
 
 *Implemented Singleton Design Patterns
 
+*Implementaion of MVC and State Machine for ghost
+
 
 
 ![image](https://user-images.githubusercontent.com/71144962/156568707-d51b8ea1-17b0-4555-a459-acf7a710fe8e.png)
